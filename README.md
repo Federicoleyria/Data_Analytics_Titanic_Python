@@ -1,12 +1,12 @@
-#Análisis del Dataset del Titanic con Python y Pandas
+Análisis del Dataset del Titanic con Python y Pandas
 Este proyecto consiste en un análisis del famoso dataset del Titanic utilizando Python y la librería Pandas. El dataset contiene información sobre los pasajeros del Titanic, incluyendo detalles como la edad, el sexo, la clase de boleto, la tarifa, etc.
 
-##Ejecución en Google Colab
+Ejecución en Google Colab
 Para ejecutar este código en Google Colab, simplemente haz clic en el siguiente botón:
 
 Open In Colab
 
-##Descripción del Proyecto
+Descripción del Proyecto
 El proyecto se divide en varias secciones:
 
 Carga de Datos: Los datos del Titanic se cargan desde un archivo CSV utilizando Pandas.

@@ -4,9 +4,9 @@ Este proyecto consiste en un análisis del famoso dataset del Titanic utilizando
 Ejecución en Google Colab
 Para ejecutar este código en Google Colab, simplemente haz clic en el siguiente botón:
 
-Open In Colab
 
-Descripción del Proyecto
+
+
 El proyecto se divide en varias secciones:
 
 Carga de Datos: Los datos del Titanic se cargan desde un archivo CSV utilizando Pandas.
@@ -20,7 +20,7 @@ Para ejecutar el código, necesitarás tener instaladas las siguientes librería
 Pandas
 NumPy
 Matplotlib (para visualización)
-Puedes instalar estas librerías utilizando pip:
+
 
 bash
 Copy code
